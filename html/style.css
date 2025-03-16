@@ -47,7 +47,7 @@ p{
     font-size: 1.3em;
 }
 .bloco2{
-    background-image: url(../imgs/FotoComMinhaGata.jpeg);
+    background-image: url(/html/FotoComMinhaGata.jpeg);
     background-position: center center;
     background-size: cover;
     padding: 50px;
