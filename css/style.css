@@ -53,7 +53,7 @@ p{
 .bloco2{
     background-image: url(../imgs/FotoComMinhaGata.jpeg);
     background-position: center center;
-    background-size: contain ;
+    background-size:cover ;
     padding: 50px;
     min-height: 600px;
     height: 100%;
