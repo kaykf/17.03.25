@@ -4,6 +4,10 @@
     padding: 0px;
     margin: 0px;
 }
+html,body{
+    height: 100%;
+    width: 100%;
+}
 header{
     background-color: rgb(51, 139, 240);
     height: 125px;
@@ -49,11 +53,11 @@ p{
 .bloco2{
     background-image: url(../imgs/FotoComMinhaGata.jpeg);
     background-position: center center;
-    background-size: cover;
+    background-size: contain ;
     padding: 50px;
     min-height: 600px;
     height: 100%;
-    background-attachment: fixed;
+    background-attachment:fixed;
 }
 .bloco3{
     min-height: 500px;
