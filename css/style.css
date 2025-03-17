@@ -51,7 +51,8 @@ p{
     background-position: center center;
     background-size: cover;
     padding: 50px;
-    height: 500px;
+    min-height: 600px;
+    height: 100%;
     background-attachment: fixed;
 }
 .bloco3{
@@ -88,7 +89,7 @@ p{
     color: white;
 }
 .back{
-    min-height: 500px;
+    min-height: 400px;
     background-color:#ffffff;
     transform: rotateY(-180deg);
     text-align: justify;
